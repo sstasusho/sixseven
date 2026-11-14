@@ -27,7 +27,14 @@
             "name": "Product 2",
             "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
             "price": 200
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx30IDsHn_LECSb3j941hmy8cibpkp1VdRBb-tn0Q5f6lDFRVZ6vKTq5k&s=10",
+            "price": 300
         }
+
     ]
 
     
