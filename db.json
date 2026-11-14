@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Anastasiia",
+            "surname": "Petrovych",
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "balance": 1000
+        }
     ]
 }
