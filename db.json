@@ -38,10 +38,8 @@
             "id": 4,
             "name": "Product 4",
             "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-            "price": 400
+            "price": 200
         }
 
-    ]
-
-    
+    ]    
 }
