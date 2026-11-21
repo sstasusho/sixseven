@@ -15,7 +15,7 @@ fetch(url+"products")
             <img src="${element.photo_url}" alt="${element.name}">
             <p>${element.description}</p>
             <p>price: ${element.price}</p>
-            <a href="${element.link}" target="_blank">View Product</a>
+            <a href="userProfile.html?id=${element.author_id}" target="_blank">Seller Profile</a>
             <button class="add-to-cart">Add to Cart</button>
         `;
         productsGrid.appendChild(pElem);

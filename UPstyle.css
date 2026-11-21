@@ -1,0 +1,157 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff5f5;
+    color: #4a2028;
+}
+
+/* Header */
+
+header {
+    background-color: #c8102e;
+    color: white;
+    padding: 20px 6%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+header a {
+    color: #c8102e;
+    background-color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+header a:hover {
+    background-color: #ffe0e5;
+}
+
+/* Main */
+
+main {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 25px;
+}
+
+/* User Info */
+
+#user-info {
+    background-color: white;
+    border: 2px solid #f1c5cc;
+    border-radius: 18px;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#user-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+#user-details h2 {
+    color: #c8102e;
+    font-size: 32px;
+}
+
+#user-details h3 {
+    color: #68444b;
+    font-size: 23px;
+}
+
+#user-details img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #f1c5cc;
+}
+
+#user-details p {
+    font-size: 22px;
+    font-weight: bold;
+    color: #c8102e;
+    background-color: #fff0f2;
+    padding: 15px 30px;
+    border-radius: 12px;
+}
+
+/* User Products */
+
+#user-products {
+    margin-top: 30px;
+    background-color: white;
+    border: 2px solid #f1c5cc;
+    border-radius: 18px;
+    padding: 25px;
+}
+
+#user-products::before {
+    content: "User Products";
+    display: block;
+    color: #c8102e;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#user-products-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+}
+
+/* Responsive */
+
+@media (max-width: 650px) {
+    header {
+        padding: 18px 5%;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    header a {
+        padding: 10px 12px;
+        font-size: 14px;
+    }
+
+    main {
+        margin: 20px auto;
+        padding: 0 15px;
+    }
+
+    #user-info {
+        padding: 25px 15px;
+    }
+
+    #user-details img {
+        width: 140px;
+        height: 140px;
+    }
+
+    #user-products-list {
+        grid-template-columns: 1fr;
+    }
+}
