@@ -40,203 +40,203 @@
   "products": [
     {
       "id": 1,
-      "name": "Roshen Milk Chocolate",
-      "description": "Ніжний молочний шоколад Roshen із насиченим вершковим смаком. Чудовий вибір для любителів класичних солодощів.",
+      "name": "Roshen Assortment Truffle Milk Chocolate",
+      "description": "Асорті цукерок із молочного шоколаду з трюфельними начинками зі смаками апельсина, вина, піна колади та лимона.",
       "author_id": 1,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 100
-    },
-    {
-      "id": 2,
-      "name": "Roshen Dark Chocolate",
-      "description": "Класичний чорний шоколад Roshen із насиченим смаком какао. Для справжніх поціновувачів шоколаду.",
-      "author_id": 2,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 120
-    },
-    {
-      "id": 3,
-      "name": "Roshen White Chocolate",
-      "description": "Солодкий білий шоколад Roshen із ніжною молочною текстурою. Ідеально підходить до чаю або кави.",
-      "author_id": 1,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 110
-    },
-    {
-      "id": 4,
-      "name": "Roshen Air Chocolate",
-      "description": "Повітряний шоколад Roshen із легкою пористою структурою, який тане в роті.",
-      "author_id": 2,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 90
-    },
-    {
-      "id": 5,
-      "name": "Roshen Caramel Chocolate",
-      "description": "Смачний шоколад із солодкою карамельною начинкою. Чудове поєднання шоколаду та карамелі.",
-      "author_id": 3,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 130
-    },
-    {
-      "id": 6,
-      "name": "Roshen Wafers",
-      "description": "Хрусткі вафлі Roshen із ніжною солодкою начинкою. Смакують усією родиною.",
-      "author_id": 4,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 80
-    },
-    {
-      "id": 7,
-      "name": "Roshen Korivka Candies",
-      "description": "Знамениті вершкові цукерки Корівка з ніжним молочним смаком. Солодощі, які нагадують дитинство.",
-      "author_id": 1,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 150
-    },
-    {
-      "id": 8,
-      "name": "Roshen Jelly Candies",
-      "description": "Яскраві фруктові желейні цукерки з м'якою текстурою та приємним солодким смаком.",
-      "author_id": 2,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 100
-    },
-    {
-      "id": 9,
-      "name": "Roshen Nut Chocolate",
-      "description": "Шоколад Roshen із додаванням смачних горіхів. Ідеальне поєднання солодкого шоколаду та хрустких горішків.",
-      "author_id": 3,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 140
-    },
-    {
-      "id": 10,
-      "name": "Roshen Caramel Candies",
-      "description": "Солодкі карамельні цукерки з насиченим смаком. Чудовий варіант для невеликого перекусу.",
-      "author_id": 4,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 90
-    },
-    {
-      "id": 11,
-      "name": "Roshen Chocolate Bar",
-      "description": "Невеликий шоколадний батончик із ніжною шоколадною глазур'ю. Зручно брати із собою.",
-      "author_id": 5,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 50
-    },
-    {
-      "id": 12,
-      "name": "Roshen Nuts Bar",
-      "description": "Шоколадний батончик із хрусткими горішками. Смачне поєднання шоколаду та горіхової начинки.",
-      "author_id": 1,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 65
-    },
-    {
-      "id": 13,
-      "name": "Roshen Wafer Bar",
-      "description": "Хрусткий вафельний батончик у шоколадній глазурі. Чудовий солодкий перекус.",
-      "author_id": 2,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 45
-    },
-    {
-      "id": 14,
-      "name": "Roshen Caramel Bar",
-      "description": "Солодкий батончик із ніжною карамеллю та шоколадною глазур'ю. Для тих, хто любить карамель.",
-      "author_id": 3,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 55
-    },
-    {
-      "id": 15,
-      "name": "Roshen Biscuit Bar",
-      "description": "Смачний батончик із бісквітною основою та шоколадною глазур'ю. Ідеальний до гарячого напою.",
-      "author_id": 4,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 60
-    },
-    {
-      "id": 16,
-      "name": "Roshen Assorted Candies",
-      "description": "Асорті цукерок Roshen із різними смаками. Чудовий вибір для свят, подарунків або частування друзів.",
-      "author_id": 5,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+      "photo_url": "https://roshenstores.com/storage/products/images/big/CufUQ3gOCSefN1FKywyvJAXlNthtXYyaVaxkTg9A.png.webp?v=1775482210",
       "price": 180
     },
     {
-      "id": 17,
-      "name": "Roshen Chocolate Candies",
-      "description": "Смачні шоколадні цукерки з ніжною начинкою та насиченим шоколадним смаком.",
+      "id": 2,
+      "name": "Roshen Assortment Dark Chocolate",
+      "description": "Асорті цукерок у чорному шоколаді з начинками крем-брюле, праліне та кавовою помадкою.",
+      "author_id": 2,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/WeXCjhkyl22TjcAhgaVWY9JgGas9bkqbAMsqDMV6.png.webp?v=1742978165",
+      "price": 180
+    },
+    {
+      "id": 3,
+      "name": "Roshen Lacmi Coconut & Almond",
+      "description": "Молочний шоколад із ніжною кокосовою начинкою, кокосовою стружкою та підсмаженим мигдалем.",
+      "author_id": 3,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/1fcBGyuJGscKFaELobxv3D34lTwmMFJ1XDy5uqbR.png.webp?v=1742982801",
+      "price": 195
+    },
+    {
+      "id": 4,
+      "name": "Roshen Lacmi Choco Hazelnut Cookies",
+      "description": "Молочний шоколад із хрустким печивом та ніжною шоколадно-горіховою начинкою.",
+      "author_id": 4,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/Xz7ezfAvtNY2plTjnzGCdapefj9iI4orv3fraET7.png.webp?v=1742982896",
+      "price": 195
+    },
+    {
+      "id": 5,
+      "name": "Roshen Wafers Coconut & Almond",
+      "description": "Дев'ятишарові хрусткі вафлі з кокосовою стружкою та мигдальною пастою.",
+      "author_id": 5,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/Jx0bpJHKFNmcDrNKx6pujmHwCtntwI2rACNLe0aT.png.webp?v=1742981683",
+      "price": 65
+    },
+    {
+      "id": 6,
+      "name": "Roshen Wafers Milk",
+      "description": "Світлі хрусткі вафлі з ніжною молочною начинкою.",
       "author_id": 1,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 160
+      "photo_url": "https://roshenstores.com/storage/products/images/big/8uf83aJBjXZ6UNsmiLfWKLCN41EXhdekSfoNLsDq.png.webp?v=1742981705",
+      "price": 65
+    },
+    {
+      "id": 7,
+      "name": "Roshen Wafers Choco",
+      "description": "Темні вафлі з насиченою шоколадною начинкою та какао.",
+      "author_id": 2,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/U3IPHPTiC5dqOWDd18lpgDrRVmy1sVeR1P3J6gLY.png.webp?v=1742981725",
+      "price": 65
+    },
+    {
+      "id": 8,
+      "name": "Roshen Wafers Hazelnut",
+      "description": "Хрусткі вафлі з горіховою начинкою на основі фундука та какао.",
+      "author_id": 3,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/b7KY3GSqKnPznFqlsQY9y5SHBgAaX7BmW6Gpzzvk.png.webp?v=1742981747",
+      "price": 65
+    },
+    {
+      "id": 9,
+      "name": "Roshen Wafers Cocoa Milk",
+      "description": "Темні хрусткі вафлі з ніжною молочною начинкою.",
+      "author_id": 4,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/UD0aJTqzcxFQoaShUnhtPAjOMY8p48Lqy2O2rU16.png.webp?v=1742981767",
+      "price": 65
+    },
+    {
+      "id": 10,
+      "name": "Roshen Wafers Lemon Cream",
+      "description": "Хрусткі вафлі з освіжаючою лимонною начинкою.",
+      "author_id": 5,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/8jrUEHirgYwkyENiNc9dWXR7yyRIP5zjVk3MGMPL.png.webp?v=1742981786",
+      "price": 65
+    },
+    {
+      "id": 11,
+      "name": "Roshen Wafers Milk 72g",
+      "description": "Компактна упаковка хрустких вафель із молочною начинкою.",
+      "author_id": 1,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/8uf83aJBjXZ6UNsmiLfWKLCN41EXhdekSfoNLsDq.png.webp?v=1742981705",
+      "price": 22
+    },
+    {
+      "id": 12,
+      "name": "Roshen Wafers Choco 72g",
+      "description": "Невелика упаковка шоколадних вафель із насиченим смаком какао.",
+      "author_id": 2,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/AhpLoFu48rzk0e4gjr4df4yu9rwftNh8bxxzg20a.png.webp?v=1742981983",
+      "price": 22
+    },
+    {
+      "id": 13,
+      "name": "Roshen Wafers Hazelnut 72g",
+      "description": "Маленька упаковка вафель із ніжною горіховою начинкою.",
+      "author_id": 3,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/b7KY3GSqKnPznFqlsQY9y5SHBgAaX7BmW6Gpzzvk.png.webp?v=1742981747",
+      "price": 22
+    },
+    {
+      "id": 14,
+      "name": "Roshen Wafers Lemon 72g",
+      "description": "Хрусткі вафлі з лимонною начинкою в компактній упаковці.",
+      "author_id": 4,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/8jrUEHirgYwkyENiNc9dWXR7yyRIP5zjVk3MGMPL.png.webp?v=1742981786",
+      "price": 22
+    },
+    {
+      "id": 15,
+      "name": "Roshen Roshetto Peanut",
+      "description": "Вафельний батончик Roshetto з арахісом у шоколадній глазурі.",
+      "author_id": 5,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/pO8FqFh0tHGRCV7KZeWqC8hGs2kFdV985o6gDjPE.png.webp?v=1777886966",
+      "price": 15
+    },
+    {
+      "id": 16,
+      "name": "Roshen Aerated Dark Chocolate",
+      "description": "Пористий чорний шоколад із вираженим смаком какао та легкою текстурою.",
+      "author_id": 1,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/6VIOuxPe9uUBxs6k1yiGAARc1PTvZ6wD1HrOsbQp.png.webp?v=1755173788",
+      "price": 65
+    },
+    {
+      "id": 17,
+      "name": "Roshen Lacmi Milk Filling & Cookies",
+      "description": "Молочний шоколад із ніжним молочним кремом та хрустким печивом.",
+      "author_id": 2,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/luEvA0ZZXmMClGrTpMCqMS9IbYIRRXJ4f6Bj0xNV.png.webp?v=1742987308",
+      "price": 70
     },
     {
       "id": 18,
-      "name": "Roshen Toffee",
-      "description": "М'які іриски з приємним вершково-карамельним смаком. Справжнє задоволення для ласунів.",
-      "author_id": 2,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 110
+      "name": "Roshen NUT OUT Whole Hazelnuts",
+      "description": "Молочний шоколад із цілими обсмаженими лісовими горіхами.",
+      "author_id": 3,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/TYvaRlaikFBnNGpz3mFphNroVl0KRlISfjNsdfp0.png.webp?v=1742983293",
+      "price": 80
     },
     {
       "id": 19,
-      "name": "Roshen Lollipops",
-      "description": "Яскраві льодяники з фруктовими смаками. Маленька солодка радість для кожного дня.",
-      "author_id": 3,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+      "name": "Roshen Lacmi Fun&Crispy",
+      "description": "Пористий молочний шоколад із ніжною начинкою та хрусткими кульками.",
+      "author_id": 4,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/crdMcZn2AcuLi5LXKvho2uLHhFtdja7OjxctOjxX.png.webp?v=1756972028",
       "price": 70
     },
     {
       "id": 20,
-      "name": "Roshen Wafer Candies",
-      "description": "Хрусткі вафельні цукерки з ніжною начинкою. Чудово підходять для чаювання.",
-      "author_id": 4,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 95
+      "name": "Roshen Lacmi Chocolate Cookies",
+      "description": "Молочний шоколад із шоколадно-горіховою начинкою та хрустким печивом.",
+      "author_id": 5,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/Xz7ezfAvtNY2plTjnzGCdapefj9iI4orv3fraET7.png.webp?v=1742982896",
+      "price": 195
     },
     {
       "id": 21,
-      "name": "Roshen Strawberry Chocolate",
-      "description": "Ніжний шоколад із приємним полуничним смаком. Солодке поєднання фруктової та шоколадної нотки.",
-      "author_id": 5,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 125
+      "name": "Roshen Lacmi Coconut Almond 280g",
+      "description": "Велика упаковка молочного шоколаду з кокосовою начинкою та мигдалем.",
+      "author_id": 1,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/1fcBGyuJGscKFaELobxv3D34lTwmMFJ1XDy5uqbR.png.webp?v=1742982801",
+      "price": 195
     },
     {
       "id": 22,
-      "name": "Roshen Hazelnut Chocolate",
-      "description": "Шоколад Roshen із ароматним фундуком. Насичений смак для справжніх любителів горіхів.",
-      "author_id": 1,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 145
+      "name": "Roshen Wafers Sandwich Crunch Choco",
+      "description": "Хрусткі вафельні сендвічі з шоколадною начинкою.",
+      "author_id": 2,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/U3IPHPTiC5dqOWDd18lpgDrRVmy1sVeR1P3J6gLY.png.webp?v=1742981725",
+      "price": 45
     },
     {
       "id": 23,
-      "name": "Roshen Mini Chocolate",
-      "description": "Маленька шоколадка для солодкого перекусу в будь-який час. Компактний формат і приємний смак.",
-      "author_id": 2,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 35
+      "name": "Roshen Wafers Sandwich Crunch Milk",
+      "description": "Вафельні сендвічі з ніжною молочною начинкою.",
+      "author_id": 3,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/8uf83aJBjXZ6UNsmiLfWKLCN41EXhdekSfoNLsDq.png.webp?v=1742981705",
+      "price": 45
     },
     {
       "id": 24,
-      "name": "Roshen Coconut Bar",
-      "description": "Солодкий кокосовий батончик із шоколадною глазур'ю. Для любителів ніжного кокосового смаку.",
-      "author_id": 3,
-      "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-      "price": 75
+      "name": "Roshen Wafers Sandwich Crunch Lemon",
+      "description": "Хрусткі вафельні сендвічі з лимонною начинкою.",
+      "author_id": 4,
+      "photo_url": "https://roshenstores.com/storage/products/images/big/8jrUEHirgYwkyENiNc9dWXR7yyRIP5zjVk3MGMPL.png.webp?v=1742981786",
+      "price": 45
     },
     {
       "id": 25,
-      "name": "Roshen Premium Chocolate Box",
-      "description": "Подарунковий набір шоколадних солодощів Roshen. Чудовий подарунок для друзів, рідних та близьких.",
+      "name": "Roshen Wafers Sandwich Crunch Hazelnut",
+      "description": "Вафельні сендвічі з ароматною горіховою начинкою.",
       "author_id": 5,
-      "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
-      "price": 250
+      "photo_url": "https://roshenstores.com/storage/products/images/big/b7KY3GSqKnPznFqlsQY9y5SHBgAaX7BmW6Gpzzvk.png.webp?v=1742981747",
+      "price": 45
     }
   ]
 }
