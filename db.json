@@ -1,45 +1,216 @@
 {
     "users": [
         {
-            "id": 2,
+            "id": 1,
             "name": "Artem",
             "surname": "Prymachenko",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx30IDsHn_LECSb3j941hmy8cibpkp1VdRBb-tn0Q5f6lDFRVZ6vKTq5k&s=10",
             "balance": 1500
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Anastasiia",
             "surname": "Petrovych",
             "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
             "balance": 1000
+        },
+        {
+            "id": 3,
+            "name": "Maksym",
+            "surname": "Shevchenko",
+            "photo_url": "https://i.pravatar.cc/150?img=12",
+            "balance": 800
+        },
+        {
+            "id": 4,
+            "name": "Sofiia",
+            "surname": "Kovalenko",
+            "photo_url": "https://i.pravatar.cc/150?img=47",
+            "balance": 1200
+        },
+        {
+            "id": 5,
+            "name": "Dmytro",
+            "surname": "Bondarenko",
+            "photo_url": "https://i.pravatar.cc/150?img=13",
+            "balance": 2000
         }
     ],
     "products": [
         {
             "id": 1,
-            "name": "Product 1",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx30IDsHn_LECSb3j941hmy8cibpkp1VdRBb-tn0Q5f6lDFRVZ6vKTq5k&s=10",
+            "name": "Roshen Milk Chocolate",
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
             "price": 100
         },
         {
             "id": 2,
-            "name": "Product 2",
+            "name": "Roshen Dark Chocolate",
+            "author_id": 2,
             "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-            "price": 200
+            "price": 120
         },
         {
             "id": 3,
-            "name": "Product 3",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx30IDsHn_LECSb3j941hmy8cibpkp1VdRBb-tn0Q5f6lDFRVZ6vKTq5k&s=10",
-            "price": 300
+            "name": "Roshen White Chocolate",
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 110
         },
         {
             "id": 4,
-            "name": "Product 4",
+            "name": "Roshen Air Chocolate",
+            "author_id": 2,
             "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
-            "price": 200
+            "price": 90
+        },
+        {
+            "id": 5,
+            "name": "Roshen Caramel Chocolate",
+            "author_id": 3,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 130
+        },
+        {
+            "id": 6,
+            "name": "Roshen Wafers",
+            "author_id": 4,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 80
+        },
+        {
+            "id": 7,
+            "name": "Roshen Korivka Candies",
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 150
+        },
+        {
+            "id": 8,
+            "name": "Roshen Jelly Candies",
+            "author_id": 2,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 100
+        },
+        {
+            "id": 9,
+            "name": "Roshen Nut Chocolate",
+            "author_id": 3,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 140
+        },
+        {
+            "id": 10,
+            "name": "Roshen Caramel Candies",
+            "author_id": 4,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 90
+        },
+        {
+            "id": 11,
+            "name": "Roshen Chocolate Bar",
+            "author_id": 5,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 50
+        },
+        {
+            "id": 12,
+            "name": "Roshen Nuts Bar",
+            "author_id": 1,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 65
+        },
+        {
+            "id": 13,
+            "name": "Roshen Wafer Bar",
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 45
+        },
+        {
+            "id": 14,
+            "name": "Roshen Caramel Bar",
+            "author_id": 3,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 55
+        },
+        {
+            "id": 15,
+            "name": "Roshen Biscuit Bar",
+            "author_id": 4,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 60
+        },
+        {
+            "id": 16,
+            "name": "Roshen Assorted Candies",
+            "author_id": 5,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 180
+        },
+        {
+            "id": 17,
+            "name": "Roshen Chocolate Candies",
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 160
+        },
+        {
+            "id": 18,
+            "name": "Roshen Toffee",
+            "author_id": 2,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 110
+        },
+        {
+            "id": 19,
+            "name": "Roshen Lollipops",
+            "author_id": 3,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 70
+        },
+        {
+            "id": 20,
+            "name": "Roshen Wafer Candies",
+            "author_id": 4,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 95
+        },
+        {
+            "id": 21,
+            "name": "Roshen Strawberry Chocolate",
+            "author_id": 5,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 125
+        },
+        {
+            "id": 22,
+            "name": "Roshen Hazelnut Chocolate",
+            "author_id": 1,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 145
+        },
+        {
+            "id": 23,
+            "name": "Roshen Mini Chocolate",
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 35
+        },
+        {
+            "id": 24,
+            "name": "Roshen Coconut Bar",
+            "author_id": 3,
+            "photo_url": "https://www.fatline.com.ua/images/products/prints/homik_sayt.png",
+            "price": 75
+        },
+        {
+            "id": 25,
+            "name": "Roshen Premium Chocolate Box",
+            "author_id": 5,
+            "photo_url": "https://images.prom.ua/4311113730_w700_h500_shokoladnyj-batonchik-roshen.jpg",
+            "price": 250
         }
-
     ]    
 }
